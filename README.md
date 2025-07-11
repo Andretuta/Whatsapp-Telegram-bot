@@ -61,10 +61,10 @@ Clone este repositório e instale as dependências:
 
 ```bash
 # Clone o projeto para sua máquina
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+git clone [https://github.com/Andretuta/Whatsapp-Telegram-bot.git](https://github.com/Andretuta/Whatsapp-Telegram-bot.git)
 
 # Entre na pasta do projeto
-cd NOME_DO_REPOSITORIO
+cd Whatsapp-Telegram-bot
 
 # Instale todas as bibliotecas necessárias
 npm install
