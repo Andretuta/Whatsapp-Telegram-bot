@@ -1,0 +1,17 @@
+# Arquivo .gitignore para o Bot Multicanal
+
+# Segredos e Chaves de Acesso
+.env
+wwebjs_auth/
+
+# Dados Pessoais e de Grupos
+bot_admins.json
+groups.json
+telegram_chats.json
+
+# Dependências (serão recriadas com 'npm install')
+node_modules/
+
+# Logs e Arquivos Gerados
+logs/
+*.log
