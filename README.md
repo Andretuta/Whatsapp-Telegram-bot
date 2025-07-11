@@ -25,7 +25,7 @@ O projeto foi desenhado para ser de fácil configuração, com um assistente int
 * **📦 Versão Portátil:** O projeto pode ser distribuído como uma pasta autônoma para Windows, contendo um executável (`.bat`) que roda o bot sem necessidade de instalação prévia do Node.js na máquina do usuário.
 
 ---
-
+```bash
 ## 📂 Estrutura do Projeto
 
 /SEU_PROJETO/
